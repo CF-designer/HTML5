@@ -1,0 +1,29 @@
+body {
+    color: rgb(185, 127, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0%;
+    background-color: magenta;
+}
+header {
+    background-color: #33333300;
+    color:white;
+    text-align: center;
+    padding: 20px 0;
+}
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: mistyrose;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0 0 0 0.1);
+}
+h2 {
+    color: #333;
+}
+.projeto {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
